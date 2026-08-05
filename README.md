@@ -135,7 +135,7 @@ El objetivo del proyecto es aplicar arquitectura, seguridad, bases de datos, doc
 ## 📫 Contacto
 
 * 📧 **Correo:** gamacias02@gmail.com
-* 💼 **LinkedIn:** [gustavo-adolfo-macias-muñan](https://www.linkedin.com/in/gustavo-adolfo-macias-mu%C3%B1an-038830266/)
+* 💼 **LinkedIn:** [gustavo-adolfo-macias-muñan](www.linkedin.com/in/gustavo-adolfo-macias-munan)
 * 🌐 **Portafolio:** Próximamente
 
 ## 🎯 Actualmente trabajando en
