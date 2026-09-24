@@ -301,17 +301,6 @@ Aplicación de escritorio desarrollada con Windows Forms para practicar desarrol
 
 ---
 
-## 📊 GitHub
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=GustavoMacias607&show_icons=true&hide_border=true"
-    alt="GitHub stats"
-  />
-</p>
-
----
-
 ## 📫 Contacto
 
 Estoy abierto a oportunidades de desarrollo de software y a colaborar en proyectos interesantes.
